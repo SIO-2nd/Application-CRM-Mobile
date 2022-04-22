@@ -55,5 +55,5 @@ et la Suppression des rendez-vous.</p>
 
 <h2 id="credits">Crédits</h2>
 
-<p>L'application CRM Mobile a été développée par <a href="https://github.com/Str4ky">REQUISTON Timothé</a>, <a href="https://github.com/Goupil117">PEYRONNET Philippe</a><br>
-et <a href="https://github.com/mateocarciu">CARCIU Mateo</a> dans le cadre du BTS.</p>
+<p>L'application CRM Mobile a été développée par <a href="https://github.com/Str4ky">REQUISTON Timothé</a>,<br>
+<a href="https://github.com/Goupil117">PEYRONNET Philippe</a> et <a href="https://github.com/mateocarciu">CARCIU Mateo</a> dans le cadre du BTS.</p>
