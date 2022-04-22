@@ -14,7 +14,7 @@ et la Suppression des rendez-vous.</p>
 
 //À compléter
 
-<p>UElle a une zone d'affichage des différents rendez-vous</p>
+<p>Elle a une zone d'affichage des différents rendez-vous</p>
 
 //À compléter
 
