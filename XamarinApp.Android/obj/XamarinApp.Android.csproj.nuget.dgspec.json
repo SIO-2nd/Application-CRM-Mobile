@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj": {}
+  },
+  "projects": {
+    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
+        "projectName": "XamarinApp.Android",
+        "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
+        "packagesPath": "C:\\Users\\ppeyronn\\.nuget\\packages\\",
+        "outputPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ppeyronn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
+                "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          }
+        }
+      }
+    },
+    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+        "projectName": "XamarinApp",
+        "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+        "packagesPath": "C:\\Users\\ppeyronn\\.nuget\\packages\\",
+        "outputPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ppeyronn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
