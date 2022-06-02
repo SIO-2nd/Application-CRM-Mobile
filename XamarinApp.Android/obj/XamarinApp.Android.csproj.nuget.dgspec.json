@@ -1,26 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj": {}
+    "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj": {}
   },
   "projects": {
-    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj": {
+    "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj",
         "projectName": "XamarinApp.Android",
-        "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
-        "packagesPath": "C:\\Users\\ppeyronn\\.nuget\\packages\\",
-        "outputPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\obj\\",
+        "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj",
+        "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ppeyronn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid12.0"
@@ -32,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
-                "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj"
+              "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj": {
+                "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj"
               }
             }
           }
@@ -52,7 +48,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.2, )"
+              "version": "[1.7.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -70,23 +66,18 @@
         }
       }
     },
-    "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
+    "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+        "projectUniqueName": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj",
         "projectName": "XamarinApp",
-        "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
-        "packagesPath": "C:\\Users\\ppeyronn\\.nuget\\packages\\",
-        "outputPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\obj\\",
+        "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj",
+        "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ppeyronn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -97,6 +88,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -108,6 +100,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
@@ -125,7 +118,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.2, )"
+              "version": "[1.7.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -150,7 +143,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

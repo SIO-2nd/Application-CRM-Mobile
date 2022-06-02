@@ -1707,7 +1707,7 @@
           "buildTransitive/monoandroid90/Xamarin.AndroidX.ViewPager2.targets": {}
         }
       },
-      "Xamarin.Essentials/1.7.2": {
+      "Xamarin.Essentials/1.7.1": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0",
@@ -1830,7 +1830,7 @@
         "dependencies": {
           "MySql.Data": "8.0.28",
           "MySqlConnector": "2.1.8",
-          "Xamarin.Essentials": "1.7.2",
+          "Xamarin.Essentials": "1.7.1",
           "Xamarin.Forms": "5.0.0.2401",
           "Xamarin.Forms.Visual.Material": "5.0.0.2401",
           "sqlite-net-pcl": "1.8.116"
@@ -3695,10 +3695,10 @@
         "xamarin.androidx.viewpager2.nuspec"
       ]
     },
-    "Xamarin.Essentials/1.7.2": {
-      "sha512": "3r2QA/54YZGw6o+cBmIQdvs9nkT1SNHHvFGl1jg2bJ/INmsPdSU4ddrwhIw6zSWSIMRbemKvXEVov1KwjRk6PQ==",
+    "Xamarin.Essentials/1.7.1": {
+      "sha512": "u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
       "type": "package",
-      "path": "xamarin.essentials/1.7.2",
+      "path": "xamarin.essentials/1.7.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3733,7 +3733,7 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.7.2.nupkg.sha512",
+        "xamarin.essentials.1.7.1.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
@@ -4026,7 +4026,7 @@
     "MonoAndroid,Version=v12.0": [
       "MySql.Data >= 8.0.28",
       "MySqlConnector >= 2.1.8",
-      "Xamarin.Essentials >= 1.7.2",
+      "Xamarin.Essentials >= 1.7.1",
       "Xamarin.Forms >= 5.0.0.2401",
       "Xamarin.Forms.Visual.Material >= 5.0.0.2401",
       "XamarinApp >= 1.0.0",
@@ -4034,26 +4034,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ppeyronn\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Philippe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj",
       "projectName": "XamarinApp.Android",
-      "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
-      "packagesPath": "C:\\Users\\ppeyronn\\.nuget\\packages\\",
-      "outputPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\XamarinApp.Android.csproj",
+      "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ppeyronn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid12.0"
@@ -4065,8 +4060,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
-              "projectPath": "E:\\Projet\\Projet n°3 InfoTools\\Projet Info-Tools\\XamarinApp\\XamarinApp\\XamarinApp.csproj"
+            "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj": {
+              "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj"
             }
           }
         }
@@ -4085,7 +4080,7 @@
           },
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.7.2, )"
+            "version": "[1.7.1, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

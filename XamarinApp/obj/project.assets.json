@@ -1828,24 +1828,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Philippe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MC\\source\\repos\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+      "projectUniqueName": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj",
       "projectName": "XamarinApp",
-      "projectPath": "C:\\Users\\MC\\source\\repos\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
-      "packagesPath": "C:\\Users\\MC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MC\\source\\repos\\XamarinApp\\XamarinApp\\obj\\",
+      "projectPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\XamarinApp.csproj",
+      "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Philippe\\Documents\\GitHub\\Application-CRM-Mobile\\XamarinApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1912,7 +1907,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

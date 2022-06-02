@@ -13,13 +13,13 @@
                    HorizontalOptions="FillAndExpand"/>
 
             <Label Text="Nom Prénom:" Margin="2"/>
-            <Entry Text="{Binding rdv.Name}" Margin="2,2,2,5" HorizontalOptions="FillAndExpand"/>
+            <Entry Text="{Binding rdv.Name}" Margin="2,2,2,5" BackgroundColor="WhiteSmoke" HorizontalOptions="FillAndExpand"/>
 
             <Label Text="Date" Margin="2"/>
-            <DatePicker Date="{Binding rdv.Date}" Format="dd/MM/yyyy" />
+            <DatePicker Date="{Binding rdv.Date}" BackgroundColor="WhiteSmoke" Format="dd/MM/yyyy" />
 
             <Label Text="Heure" Margin="2"/>
-            <TimePicker Time="{Binding rdv.Heure}"/>
+            <TimePicker Time="{Binding rdv.Heure}" BackgroundColor="WhiteSmoke"/>
 
             <Label Text="{Binding lblInfo}" Margin="2,2,2,5"/>
 
